@@ -1,7 +1,7 @@
 import requests
 import time
 import base64
-from utils.AuthV3Util import addAuthParams
+from AuthV3Util import addAuthParams
 from config import APP_KEY,APP_SECRET
 
 
